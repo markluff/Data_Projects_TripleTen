@@ -3,6 +3,7 @@
 ## 📌 Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
+  - [Sprint 1: Basic Python Skills Using Movie and TV Show Data](#sprint-1-basic-python-skills)
   - [Sprint 8: Bank Customer Churn Prediction](#sprint-8-bank-customer-churn-prediction)
   - [Sprint 10: Gold Recovery Process Prediction](#sprint-10-gold-recovery-process-prediction)
   - [Sprint 12: Used Car Value Prediction](#sprint-12-used-car-value-prediction)
@@ -14,7 +15,7 @@
 ---
 
 ## 🚀 Introduction
-This repository contains various machine learning projects completed as part of my data science training at TripleTen. Each project explores different machine learning techniques and predictive modeling approaches to solve real-world business problems. The projects cover classification, regression, feature engineering, and model evaluation strategies.
+This repository contains my full portfolio of projects completed as part of my data science training at TripleTen. Each project explores different techniques from early basic python skills, exploratory data analysis, to more complex machine learning techniques and predictive modeling approaches to solve real-world business problems. Earlier projects cover foundational data handling and statistical analyses. The latter machine learning projects cover classification, regression, feature engineering, and model evaluation strategies. The final Sprint17 project is my capstone project in which I planned and implemented an end-to-end churn prediction for a telecommunications company. Please feel free to peruse these projects and reach out if you have any questions or thoughts you'd like to share.
 
 ---
 
