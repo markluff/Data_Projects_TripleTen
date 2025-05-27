@@ -33,6 +33,45 @@ This repository contains my full portfolio of projects completed as part of my d
 
 ## 📊 Projects
 
+### Sprint 1: Basic Python Skills
+**Objective:** 
+
+---
+### Sprint 2: Exploratory Data Analyis with Instacart
+**Objective:**
+
+
+---
+
+### Sprint 3: Statistical Data Analysis on Consumer Behavior
+**Objective:**
+
+
+---
+### Sprint 4: US Car Sales Visualizations
+**Objective:**
+
+
+---
+
+### Sprint 5: Comparing Video Game Consoles
+**Objective:**
+
+
+---
+
+### Sprint 6: Analysis of SQL Acquired Data
+**Objective:**
+
+
+---
+
+### Sprint 7: Telecom Plan Recommendations
+**Objective:**
+
+
+---
+
 ### Sprint 8: Bank Customer Churn Prediction
 **Objective:** Predict which customers are likely to leave Beta Bank using machine learning models.
 
@@ -43,6 +82,12 @@ This repository contains my full portfolio of projects completed as part of my d
   - Feature importance analysis
 - **Best Model:** Random Forest (F1 Score = 0.732)
 - 📂 [Project Link](./Sprint8)
+
+---
+
+### Sprint 9: Oil Field Investment Analyis
+**Objective:**
+
 
 ---
 
@@ -59,6 +104,12 @@ This repository contains my full portfolio of projects completed as part of my d
 
 ---
 
+### Sprint 11: Insurance Customer Benefits Predictions
+**Objective:**
+
+
+---
+
 ### Sprint 12: Used Car Value Prediction
 **Objective:** Build a machine learning model to predict the value of used cars efficiently.
 
@@ -69,6 +120,30 @@ This repository contains my full portfolio of projects completed as part of my d
   - Model evaluation using RMSE
 - **Best Model:** LightGBM (Balanced accuracy and speed)
 - 📂 [Project Link](./Sprint12)
+
+---
+
+### Sprint 13: Hourly Taxi Order Prediction
+**Objective:**
+
+
+---
+
+### Sprint 14: Movie Review NLP
+**Objective:**
+
+
+---
+
+### Sprint 15: Age Prediction from a Picture
+**Objective:**
+
+
+---
+
+### Sprint 16: Unsupervised Learning
+**Objective:**
+
 
 ---
 
