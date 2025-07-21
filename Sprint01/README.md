@@ -1,49 +1,62 @@
-📄 Sprint 1: Exploring TV Show Data
-Project Title: Using Movie and TV Show Data to Begin Practicing Python Skills
+# 📊 Sprint 1 Project – Basic Python
 
-🔍 Objective
-This project explores a dataset of movies and TV shows to analyze trends during the "Golden Age" of television—beginning in 1999 with The Sopranos. The primary goal is to investigate how the number of user votes correlates with show ratings.
+## 📌 Project Overview
+This project was completed as part of **Sprint 1** in the TripleTen Data Science Bootcamp.  
+The focus of this sprint was to build foundational skills in Python programming and begin developing a workflow for data analysis.
 
-🧠 Skills Practiced
-Python basics
+The primary goals of this project were:
+- ✅ Practice basic Python syntax and operations.
+- ✅ Work with lists, loops, and conditionals.
+- ✅ Apply problem-solving skills to simple data tasks.
 
-Working with Jupyter Notebooks
+---
 
-Data loading and initial exploration
+## 📂 Repository Structure
+| File | Description |
+|------|-------------|
+| [`basic_python_sprint_1_project.ipynb`](basic_python_sprint_1_project.ipynb) | Jupyter Notebook containing all code, explanations, and outputs for Sprint 1. |
 
-Data cleaning and preprocessing with pandas
+---
 
-Filtering and subsetting datasets
+## 🚀 Key Sections of the Notebook
+You can explore the notebook directly in GitHub or open it in Jupyter to run the code.  
+Here are the main sections of the notebook:
 
-Sorting and basic descriptive statistics
+- [📦 **Data Setup & Preparation**](basic_python_sprint_1_project.ipynb)  
+  Importing initial data, exploring Python structures, and setting up basic variables.
 
-📁 Dataset
-File: movies_and_shows.csv
+- [🔄 **Loops & Conditionals**](basic_python_sprint_1_project.ipynb)  
+  Practicing for-loops, while-loops, and if/else statements to solve problems.
 
-Content: Metadata on movies and shows, including title, type (TV or movie), release year, rating, and number of user votes.
+- [🧮 **Simple Computations**](basic_python_sprint_1_project.ipynb)  
+  Writing functions, calculating basic statistics, and verifying results.
 
-🔬 Analysis Workflow
-Data Overview:
+*(Direct links in GitHub will open the notebook as a whole. To jump to a section, open the notebook and navigate via the Table of Contents in Jupyter.)*
 
-Loaded data with pandas
+---
 
-Inspected structure, types, and basic statistics
+## 🛠️ Technologies Used
+- **Python 3**
+- **Jupyter Notebook**
 
-Data Preprocessing:
+---
 
-Identified and handled missing or inconsistent values
+## 📈 Skills Practiced
+✔️ Writing and running Python code  
+✔️ Working with lists, loops, and conditionals  
+✔️ Documenting code with markdown cells  
+✔️ Building a foundation for later data analysis sprints
 
-Filtered the dataset to focus on TV shows only
+---
 
-Exploratory Analysis:
+## 📌 Next Steps
+- Continue building on Python fundamentals.
+- Start working with libraries like **pandas** and **NumPy** in upcoming sprints.
+- Improve notebook organization with headings and comments for clarity.
 
-Analyzed relationships between the number of votes and ratings
+---
 
-Focused on shows released during or after 1999
+**🖇️ [View the Notebook Here »](basic_python_sprint_1_project.ipynb)**
 
-💡 Key Findings
-Highly-rated TV shows during the Golden Age typically also received a large number of votes.
-
-A clear positive correlation was observed between user engagement (votes) and high ratings.
-
-"# Sprint1" 
+---
+*Completed as part of the TripleTen Data Science Bootcamp.*
